@@ -15,7 +15,10 @@ npm install strs --save
 
 ### With ES6/import
 
-```
+```js
 import strs from 'strs';
 ``` 
 
+## License
+
+MIT
