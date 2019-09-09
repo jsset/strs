@@ -1,5 +1,7 @@
 ## Strs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/strs.svg)](https://greenkeeper.io/)
+
 string aggregate set
 
 ## Install
